@@ -4,7 +4,7 @@ This project is a simple educational website for Error Makes Clever Academy, aim
 
 **📌 Features**
 
-Homepage (index.html)
+**Homepage (index.html)**
 
 Introduction to Error Makes Clever Academy.
 
@@ -16,7 +16,7 @@ Interactive table displaying commonly used technologies.
 
 Links to Instagram, YouTube, and Course Registration page.
 
-Registration Page (register.html)
+**Registration Page (register.html**
 
 User Registration Form for course enrollment.
 
@@ -27,6 +27,7 @@ Options to reset or submit the form.
 Links to Home, Instagram, and YouTube pages.
 
 **🔧 Technologies Used**
+
 HTML - For structuring the web pages.
 
 CSS (Optional for future enhancement) - Can be used to style the website.
