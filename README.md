@@ -48,7 +48,7 @@ You can visit the website at:
 
 home:  https://727623bcs099.neocities.org/emc/
 
-register: https://727623bcs099.neocities.org/emc/register
+
 
 **🚀 Future Enhancements**
 
